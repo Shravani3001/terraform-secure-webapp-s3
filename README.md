@@ -88,6 +88,8 @@ terraform-secure-webapp-s3/
 
 ## Architecture Diagram
 
+<img width="910" height="744" alt="secure-webapp-diagram" src="https://github.com/user-attachments/assets/7413edfa-3ad7-4dfc-840a-adf312639c6b" />
+
 ---
 
 ## Steps to Run the Project
@@ -124,9 +126,17 @@ http://aln-dns-name
 
 ## Output
 
+<img width="1920" height="911" alt="secure-webapp-output" src="https://github.com/user-attachments/assets/8858a112-2109-45f9-804b-6ae022506070" />
 
 ---
 
 ## About Me
 
+I'm Shravani, a self-taught and project-driven DevOps engineer passionate about building scalable infrastructure and automating complex workflows.
 
+I love solving real-world problems with tools like Terraform, Ansible, Docker, Jenkins, and AWS — and I’m always learning something new to sharpen my edge in DevOps.
+
+**Connect with me:**
+
+- **LinkedIn:** www.linkedin.com/in/shravani3001
+- **GitHub:** https://github.com/Shravani3001
